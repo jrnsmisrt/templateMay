@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+.darkBg {
+  background-color: #031431;
+}
+
+.mdBg {
+  background-color: #1076b5;
+}
+
+.lightBg {
+  background-color: #2096e7;
+
+}
+
+.extraLightBg {
+  background-color: #2cbcde;
+
+}
+
+.darkColor {
+  color: #031431;
+}
+
+.mdColor {
+  color: #1076b5;
+}
+
+.lightColor {
+  color: #2096e7;
+
+}
+
+.extraLightColor {
+  color: #2cbcde;
+
+}
